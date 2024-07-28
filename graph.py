@@ -76,4 +76,4 @@ def create_graph(g, start, max_pages):
 
 # Visualize the graph
 g = Digraph(strict=True)
-create_graph(g, '/wiki/%22I_AM%22_Activity', max_pages=20)
+create_graph(g, '/wiki/%22I_AM%22_Activity', max_pages=200)
