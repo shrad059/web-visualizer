@@ -4,6 +4,7 @@
 
 ## Features
 
+
 - **Web Scraping with Retry Logic**: Utilizes `requests` with a retry strategy to handle network issues and ensure reliable data fetching.
 - **Link Extraction**: Extracts valid links from the web pages to traverse and build a graph structure.
 - **Graph Visualization**: Uses Graphviz to create a visual representation of the web page network.
