@@ -16,5 +16,5 @@
 2. Maximum Pages: `200`
 3. Total Edges: `193`
 
-The script will fetch and process up to 200 pages (you can customize this) starting from the given URL , then generate a graph and save it as a PDF. Thhe full graph for 20 pages is [here(pdf)](https://github.com/shrad059/web-visualizer/blob/main/graph_vis.pdf)
+The script will fetch and process up to 200 pages (you can customize this) starting from the given URL , then generate a graph and save it as a PDF. Thhe full graph for 20 pages is [here(pdf)](https://github.com/shrad059/web-visualizer/blob/main/graph_vis.pdf) *you might have to zoom in to see the graph*
 
